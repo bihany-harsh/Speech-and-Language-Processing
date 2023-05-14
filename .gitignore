@@ -1,1 +1,3 @@
-/N_gram_models/text.txt
+# ignoring the IMDB dataset 
+/IMDB_dataset
+/.DS_Store
