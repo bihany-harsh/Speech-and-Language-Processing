@@ -3,6 +3,7 @@
 /.DS_Store
 /naive_bayes/movie_data.csv
 /naive_bayes/models/.DS_Store
+simpsons_dataset.csv
 
 .idea/
 
