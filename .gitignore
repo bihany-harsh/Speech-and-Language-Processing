@@ -9,6 +9,8 @@
 /feedforward_neural_networks/plots_text.pickle
 /MovieSummaries
 simpsons_dataset.csv
+/seq2seq_rnn/data/
+/seq2seq_rnn/images/
 
 .idea/
 
