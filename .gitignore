@@ -6,6 +6,7 @@
 /feedforward_neural_networks/temp/
 /naive_bayes/models/.DS_Store
 /feedforward_neural_networks/models/.DS_Store
+/feedforward_neural_networks/data/
 /feedforward_neural_networks/plots_text.pickle
 /MovieSummaries
 simpsons_dataset.csv
