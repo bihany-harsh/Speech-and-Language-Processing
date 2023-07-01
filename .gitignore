@@ -13,7 +13,6 @@ simpsons_dataset.csv
 /seq2seq_rnn/data/
 /seq2seq_rnn/images/
 /part_of_speech_tagging/data/
-/part_of_speech_tagging/images/
 
 .idea/
 
